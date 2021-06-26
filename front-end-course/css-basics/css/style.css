@@ -1,0 +1,40 @@
+p {
+  font-size: 26px;
+  color: olive;
+}
+header {
+  background-color: orange;
+}
+footer {
+  background-color: lightcoral;
+}
+a {
+  color: darkblue;
+  background-color: peachpuff;
+  text-decoration: none;
+}
+#education {
+  border: 3px solid red;
+}
+#skills-list {
+  background-color: aliceblue;
+  padding: 36px;
+}
+.top-skill {
+  font-weight: bold;
+  background-color: teal;
+  color: papayawhip;
+}
+.date {
+  border: 2px solid steelblue;
+  border-radius: 12px;
+  padding: 6px;
+}
+.special {
+  text-transform: uppercase;
+  background-color: papayawhip;
+}
+#proud {
+  font-size: 48px;
+  background-color: firebrick;
+}
